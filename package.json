@@ -1,0 +1,26 @@
+{
+    "name": "yaml2html",
+    "version": "0.1.0",
+    "author": "David Serrano <david.ma.serrano@gmail.com>",
+    "description": "Feeds yaml data into a handlebars template to produce an HTML file"
+    "bin": {
+        "yaml2html": "./yaml2html"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/N0NamedGuy/yaml2html"
+    },
+    "keywords": [
+        "yaml",
+        "json",
+        "html",
+        "mustache",
+        "templating"
+    ],
+    "dependencies": {
+        "handlebars": "*",
+        "js-yaml": "*"
+    },
+    "license": "BSD"
+
+}
