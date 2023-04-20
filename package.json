@@ -4,7 +4,7 @@
     "author": "David Serrano <david.ma.serrano@gmail.com>",
     "description": "Feeds yaml data into a handlebars template to produce an HTML file",
     "bin": {
-        "yaml2html": "./yaml2html"
+        "yaml2html": "./yaml2html.js"
     },
     "repository": {
         "type": "git",
