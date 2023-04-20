@@ -18,9 +18,8 @@
         "templating"
     ],
     "dependencies": {
-        "handlebars": "*",
-        "js-yaml": "*"
+        "handlebars": "^4.7.7",
+        "js-yaml": "^4.1.0"
     },
     "license": "BSD"
-
 }
